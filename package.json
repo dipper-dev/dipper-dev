@@ -1,0 +1,11 @@
+{
+  "name": "dipper-dev",
+  "version": "1.0.0",
+  "description": "Website for https://dipper.dev",
+  "author": "Maroš Prejsa (marosprejsa@duck.com)",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
